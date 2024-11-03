@@ -8,7 +8,7 @@ I am a Ph.D. student at IIT BHU, Varanasi
 ## Research Interests
 
 - **Analytic Number Theory:** Modular forms
-<!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
+
 
 <!-- ## News
 
