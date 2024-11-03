@@ -13,12 +13,16 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 ## Research Interests
 
 - **Modular forms** 
-- **Automorphic Representations**
-- **Mock Modular forms**
+<!-- - **Automorphic Representations** -->
+<!-- - **Mock Modular forms** -->
 - **L-functions**
 
 ## Ongoing Works
+- Orthogonal Modular forms and their properties
+- Trying to get my head around automorphic representations
 
+## Hobbies
+- 1. Literature! 
 
 
 
