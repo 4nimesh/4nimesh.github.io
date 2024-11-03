@@ -22,8 +22,8 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 - Trying to get my head around automorphic representations
 
 ## Hobbies
-- 1. Literature! Any kind of Bengali literature. From বঙ্কিমচন্দ্র চট্টোপাধ্যায় to শ্রীজাত, anything!
-- 2. Music! 
+-  Literature! Any kind of Bengali literature. From বঙ্কিমচন্দ্র চট্টোপাধ্যায় to শ্রীজাত, anything!
+-  Music! 
 <!-- I find myself in an awkward place when I think about my tasteas. I love রবীন্দ্র সঙ্গীত, but Rocks, Metals attract me also. I love Bengali classical and folks and their modern renditions. Also, Bollywood, of course! -->
 
 
