@@ -23,6 +23,7 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 
 ## Hobbies
 - 1. Literature! 
+- 2. Music! I find myself in an awkward place when I think about my tasteas. I love রবীন্দ্র সঙ্গীত, but Rocks, Metals attract me also. I love Bengali classical and folks and their modern renditions. Also, Bollywood, of course!
 
 
 
