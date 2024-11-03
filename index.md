@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at IIT BHU, Varanasi
+I am interested in Analytic (and algebraic) Number Theory and their applications in physics. 
+
+My ongoing works are on Siegel modular forms,  Hermitian modular forms and modular forms associated to orthogonal group. I also work on analytic behaviour of Fourier coefficients of modular forms. I want to explore further in the areas like elliptic curves, mock modular forms, and the theory of $L$-functions.
 ## Research Interests
 
 - **Analytic Number Theory:** Modular forms
