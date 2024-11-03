@@ -10,7 +10,7 @@ main:
     # image: ./assets/img/teaser_example_2.png
     notes: Accepted
 
-  - title: Average behaviour of Fourier coefficients of *j*-symmetric power *L*-functions over some polynomials
+  - title: Average behaviour of Fourier coefficients of j-symmetric power L-functions over some polynomials
     authors: Mohd. Shahvez Alam, Animesh Sarkar
     # conference_short: CVPR
     conference: Acta Mathematica Hungarica
