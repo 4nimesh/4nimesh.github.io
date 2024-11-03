@@ -6,7 +6,11 @@ layout: homepage
 
 Hi there! Welcome! I cureently reside in [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a central place in the traditions of pilgrimage, death, and mourning in the Hindu world. I (at least try to) study mathematics, number theory in particular. 
 
-My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in (Siegel/Hermitian/Orthogonal) modular forms, Jacobi forms and Poincaré series and their properties.
+My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in modular forms, Jacobi forms and corresponding Poincaré series.
+
+Previously, I was a state JRF in [University of North Bengal](https://nbu.ac.in/) for few months,  where I studied [Solid Mechanics](https://en.wikipedia.org/wiki/Solid_mechanics).
+
+I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](https://coochbeharcollege.ac.in/) with 76% and M.Sc. (2016-2018) in Mathematics from [University of North Bengal](https://nbu.ac.in/) with 72%.
 
 ## Research Interests
 
@@ -15,7 +19,6 @@ My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/m
 ## Ongoing Works
 
 
-## 
 
 
 <!-- ## News
