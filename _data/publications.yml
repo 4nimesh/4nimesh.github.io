@@ -31,3 +31,9 @@ main:
     # bibtex: 
     notes: Volume 543, Issue 2, Part 2, 15 March 2025
     # image: ./assets/img/teaser_example.png
+
+  - title: On Rankin-Cohen brackets of Jacobi forms and Jacobi Poincaré series of matrix index
+    authors: Mohd. Shahvex Alam, Animesh Sarkar
+    conference: Indian Journal of Pure and Applied Mathematics
+    pdf: https://doi.org/10.1007/s13226-024-00696-z
+    notes: Published online
