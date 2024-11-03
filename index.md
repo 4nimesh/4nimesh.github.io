@@ -12,7 +12,10 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 
 ## Research Interests
 
-- **Analytic Number Theory:** Modular forms
+- **Modular forms** 
+- **Automorphic Representations**
+- **Mock Modular forms**
+- **L-functions**
 
 ## Ongoing Works
 
