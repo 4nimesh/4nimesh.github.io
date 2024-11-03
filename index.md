@@ -4,12 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am interested in Analytic (and algebraic) Number Theory and their applications in physics. 
+Hi there! Welcome! I cureently reside in [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a central place in the traditions of pilgrimage, death, and mourning in the Hindu world. I (at least try to) study mathematics, number theory in particular. 
 
-My ongoing works are on Siegel modular forms,  Hermitian modular forms and modular forms associated to orthogonal group. I also work on analytic behaviour of Fourier coefficients of modular forms. I want to explore further in the areas like elliptic curves, mock modular forms, and the theory of $L$-functions.
+My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in (Siegel/Hermitian/Orthogonal) modular forms, Jacobi forms and Poincaré series and their properties.
+
 ## Research Interests
 
 - **Analytic Number Theory:** Modular forms
+
+## Ongoing Works
+
+
+## 
 
 
 <!-- ## News
