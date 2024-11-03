@@ -17,6 +17,17 @@ main:
     pdf: https://doi.org/10.1007/s10474-024-01467-2
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    ris: https://citation-needed.springer.com/v2/references/10.1007/s10474-024-01467-2?format=refman&flavour=citation
+    # bibtex: 
     notes: Published online
+    # image: ./assets/img/teaser_example.png
+
+  - title: Fourier coefficients of Jacobi Poincaré series and applications
+    authors: Abhash Kumar Jha, Animesh Sarkar
+    # conference_short: CVPR
+    conference: Journal of Mathematical Analysis and Applications
+    pdf: https://doi.org/10.1016/j.jmaa.2024.128994
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: 
+    notes: Volume 543, Issue 2, Part 2, 15 March 2025
     # image: ./assets/img/teaser_example.png
