@@ -26,7 +26,24 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 -  Music! 
 <!-- I find myself in an awkward place when I think about my tasteas. I love রবীন্দ্র সঙ্গীত, but Rocks, Metals attract me also. I love Bengali classical and folks and their modern renditions. Also, Bollywood, of course! -->
 
+## Schools or Workshops attended
+- CIMPA Course on Metric Geometry, DST-BHU, Varanasi, April 18- 26, 2022.
+- Annual Foundation School – II, NISER, Bhubaneswar, June 20-16, 2022.
+- NCMW - Elliptic Curves, Elliptic Functions and Transcendence, HRI, Prayagraj, November 24- December 03, 2022.
+- NCMW - Jacobi Forms, IIT Guwahati, December 12-24, 2022.
+- Workshop on Number Theory, NISER, Bhubaneswar, February 20-25, 2023.
+- NCMW - Elliptic Curves, IISER, Thiruvananthapuram, April 3-15, 2023.
+- AIS - An Introduction to p-adic Methods in Arithmetic, SRM University AP, Mangalagiri, June 26-July 15, 2023.
+- School on Number Theory and Physics, Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, June 17-June 21, 2024.
 
+## Conferences attended
+- **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 2024.
+- **International Conference on Lie Algebra and Number Theory**, Department of Mathematics National Institute of Technology Calicut (An Institute of National Importance), June 2024.
+- **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, October-November 2024.
+
+## Talks or Presentations delivered
+- **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications.
+- **The adjoint of the higher order heat operators on Jacobi forms**, International Conference on Lie Algebra and Number Theory.
 
 <!-- ## News
 
