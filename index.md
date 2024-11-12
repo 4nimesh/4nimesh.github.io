@@ -35,11 +35,12 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 - NCMW - Elliptic Curves, IISER, Thiruvananthapuram, April 3-15, 2023.
 - AIS - An Introduction to p-adic Methods in Arithmetic, SRM University AP, Mangalagiri, June 26-July 15, 2023.
 - School on Number Theory and Physics, Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, June 17-June 21, 2024.
+- Circle Method and Related Topics, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, October 28-November 02, 2024.
 
 ## Conferences attended
-- **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 2024.
-- **International Conference on Lie Algebra and Number Theory**, Department of Mathematics National Institute of Technology Calicut (An Institute of National Importance), June 2024.
-- **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, October-November 2024.
+- **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 12-14, 2024.
+- **International Conference on Lie Algebra and Number Theory**, Department of Mathematics National Institute of Technology Calicut (An Institute of National Importance), June 10-14, 2024.
+- **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, November 04-08, 2024.
 
 ## Talks or Presentations delivered
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications.
