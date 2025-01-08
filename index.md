@@ -55,4 +55,4 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 
 {% include_relative _includes/publications.md %}
 
-[Miscellaneous information](about.md)
+[Miscellaneous information](teaching.md)
