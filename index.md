@@ -13,8 +13,8 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 ## Research Interests
 
 - **Modular forms** 
-<!-- - **Automorphic Representations** -->
-<!-- - **Mock Modular forms** -->
+- **Automorphic Representations** 
+- **Mock Modular forms** 
 - **L-functions**
 
 ## Ongoing Works
@@ -55,4 +55,4 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 
 {% include_relative _includes/publications.md %}
 
-Go to [about page](about.md)
+[Miscellaneous information](about.md)
