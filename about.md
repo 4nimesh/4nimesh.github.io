@@ -1,5 +1,5 @@
 ---
 title: ABOUT PAGE
-layout: template
+layout: homepage
 filename: about.md
 --- 
