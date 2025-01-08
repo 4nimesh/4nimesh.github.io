@@ -54,3 +54,5 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/publications.md %}
+
+Go to [about page](about.md)
