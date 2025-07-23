@@ -36,6 +36,7 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 - AIS - An Introduction to p-adic Methods in Arithmetic, SRM University AP, Mangalagiri, June 26-July 15, 2023.
 - School on Number Theory and Physics, Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, June 17-June 21, 2024.
 - Circle Method and Related Topics, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, October 28-November 02, 2024.
+- CIMPA School on Automorphic _L_-functions, IIT Ropar, India, June 30-July 11, 2025.
 
 ## Conferences attended
 - **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 12-14, 2024.
