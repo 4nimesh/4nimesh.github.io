@@ -12,7 +12,6 @@ filename: teaching.md
 - Linear Algebra, Odd semester 2022-2023
 
 
-## 
 
 
 
