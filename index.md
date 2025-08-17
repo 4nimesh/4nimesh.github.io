@@ -58,14 +58,39 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 
 {% include_relative _includes/publications.md %}
 
+<style>
+.adaptive-button {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: transparent;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: color 0.3s ease;
+}
 
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  .adaptive-button {
+    color: black;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .adaptive-button {
+    color: white;
+  }
+}
+</style>
+
+<a href="./teaching" class="adaptive-button">Miscellaneous information</a>
 
 <!-- <a href="./teaching" style="display: inline-block; padding: 6px 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 4px;">Miscellaneous information </a> -->
-<style>
+<!-- <style>
 .transparent-button:hover {
   background-color: black;
   color: white;
 }
 </style>
 
-<a href="./teaching" class="transparent-button" style="display: inline-block; padding: 6px 12px; border: 2px solid black; color: black; text-decoration: none; border-radius: 4px; background-color: transparent;">Miscellaneous information</a>
+<a href="./teaching" class="transparent-button" style="display: inline-block; padding: 6px 12px; border: 2px solid black; color: black; text-decoration: none; border-radius: 4px; background-color: transparent;">Miscellaneous information</a> -->
