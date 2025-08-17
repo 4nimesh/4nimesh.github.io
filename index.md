@@ -2,6 +2,9 @@
 layout: homepage
 ---
 
+<!-- <a href="./teaching.md" style="display: inline-block; padding: 6px 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 4px;">Miscellaneous information </a> -->
+<a href="./ma111.md" style="display: inline-block; padding: 6px 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 4px;"> MA 111 Tutorials </a>
+
 ## About Me
 
 Hi there! Welcome! I curently reside in [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a central place in the traditions of pilgrimage, death, and mourning in the Hindu world, where I (at least try to) study mathematics, number theory in particular. My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in modular forms, Jacobi forms and corresponding Poincaré series.
@@ -59,6 +62,3 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 
 
 
-[Miscellaneous information](teaching.md)
-
-[MA-111 Tutorials](ma111.md)
