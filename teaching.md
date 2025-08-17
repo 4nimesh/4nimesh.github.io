@@ -4,7 +4,7 @@ layout: homepage
 filename: teaching.md
 --- 
 ## Courses taught as tutor
-- **Algebra, Odd  Sem  2025-2026** ([Course Tutorials](https://github.com/4nimesh/ma111.md))
+- **Algebra, Odd  Sem  2025-2026** ([Course Tutorials](ma111.html))
 - Engineering Mathematics II, Even Sem 2024-2025
 - Algebra, Even semester 2023-2024
 - Linear Algebra, Odd semester 2023-2024
