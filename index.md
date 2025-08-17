@@ -2,7 +2,6 @@
 layout: homepage
 ---
 
-<!-- <a href="./teaching.md" style="display: inline-block; padding: 6px 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 4px;">Miscellaneous information </a> -->
 <a href="./ma111" style="display: inline-block; padding: 6px 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 4px;"> MA 111 Tutorials </a>
 
 ## About Me
@@ -61,4 +60,4 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 
 
 
-
+<a href="./teaching" style="display: inline-block; padding: 6px 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 4px;">Miscellaneous information </a>
