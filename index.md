@@ -2,7 +2,32 @@
 layout: homepage
 ---
 
-<a href="./ma111" style="display: inline-block; padding: 6px 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 4px;"> MA 111 Tutorials </a>
+<style>
+.adaptive-button {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: transparent;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: color 0.3s ease;
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  .adaptive-button {
+    color: black;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .adaptive-button {
+    color: white;
+  }
+}
+</style>
+
+<a href="./ma111" class="adaptive-button"> MA-111 Tutorials </a>
 
 ## About Me
 
