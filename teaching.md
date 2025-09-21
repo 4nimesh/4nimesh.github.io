@@ -10,6 +10,8 @@ filename: teaching.md
 - Linear Algebra, Odd semester 2023-2024
 - Algebra, Even semester 2022-2023
 - Linear Algebra, Odd semester 2022-2023
+- Number Theory, Even semester 2021-2022
+- Engineering Mathematics II, Odd semester 2021-2022
 
 
 
