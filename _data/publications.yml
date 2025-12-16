@@ -44,22 +44,20 @@ main:
     pdf: https://doi.org/10.1142/S1793042126500053
     notes: Accepted
 
+  - title: Koecher-Maass series and certain kernel function associated to modular forms on the half space of quaternions
+    authors: Abhash Kumar Jha, Shivansh Pandey, Animesh Sarkar
+    conference: International Journal of Number Theory
+    pdf: https://doi.org/10.1142/S1793042126500478
+    notes: Accepted
+
   - title: Differential operators for Hermitian Jacobi forms and Poincaré series
     authors: Mohd. Shahvez Alam, Animesh Sarkar
     conference: Journal of the Ramanujan Mathematical Society
     # pdf: https://doi.org/10.1007/s13226-024-00696-z
     notes: Accepted 
 
-
-  - title: Koecher-Maass series and certain kernel function associated to modular forms on the half space of quaternions
-    authors: Abhash Kumar Jha, Shivansh Pandey, Animesh Sarkar
-    conference: International Journal of Number Theory
-    # pdf: https://doi.org/10.1007/s13226-024-00696-z
-    notes: Accepted
-    
   - title: Nonvanishing of  kernel function  for Hilbert-Jacobi forms and applications
     authors: Mohd. Shahvez Alam, Abhash Kumar Jha, Animesh Sarkar
     # conference: International Journal of Number Theory
     # pdf: https://doi.org/10.1007/s13226-024-00696-z
     notes: Submitted
-
