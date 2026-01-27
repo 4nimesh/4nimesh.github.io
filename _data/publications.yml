@@ -18,7 +18,7 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: 
-    notes: Volume 174, Issue 1, 75--93
+    notes: Volume 174, Issue 1, 75--93, 2024
     # image: ./assets/img/teaser_example.png
 
   - title: Fourier coefficients of Jacobi Poincaré series and applications
@@ -42,7 +42,7 @@ main:
     authors: Mohd. Shahvez Alam, Animesh Sarkar
     conference: International Journal of Number Theory
     pdf: https://doi.org/10.1142/S1793042126500053
-    notes: Accepted
+    notes: Volume 22, Issue 01, 73--88, 2026.
 
   - title: Koecher-Maass series and certain kernel function associated to modular forms on the half space of quaternions
     authors: Abhash Kumar Jha, Shivansh Pandey, Animesh Sarkar
