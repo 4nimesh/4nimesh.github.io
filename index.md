@@ -31,7 +31,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! Welcome! I curently reside in [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a central place in the traditions of pilgrimage, death, and mourning in the Hindu world, where I (at least try to) study mathematics, number theory in particular. My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in modular forms, Jacobi forms and corresponding Poincaré series.
+Hi there! Welcome! I was in [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a central place in the traditions of pilgrimage, death, and mourning in the Hindu world, where I study mathematics, number theory in particular. My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in modular forms, Jacobi forms and corresponding Poincaré series. Currently, I am visiting IMSc, Chennai, India, till March 2026.
 
 Previously, I was a state JRF in [University of North Bengal](https://nbu.ac.in/) for few months,  where I studied [Solid Mechanics](https://en.wikipedia.org/wiki/Solid_mechanics).
 
