@@ -40,6 +40,7 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 ## Research Interests
 
 - **Modular forms** 
+- **Jacobi forms**
 - **Automorphic Representations** 
 - **Mock Modular forms** 
 - **L-functions**
@@ -50,8 +51,7 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 
 ## Hobbies
 -  Literature! Any kind of Bengali literature. From বঙ্কিমচন্দ্র to শ্রীজাত, anything!
--  Music! 
-<!-- I find myself in an awkward place when I think about my tasteas. I love রবীন্দ্র সঙ্গীত, but Rocks, Metals attract me also. I love Bengali classical and folks and their modern renditions. Also, Bollywood, of course! -->
+-  Music! I find myself in an awkward place though when I think about my tastes. I love রবীন্দ্র সঙ্গীত, but Rocks and Metals attract me also. I love Bengali classical, folks and their modern renditions.
 
 ## Schools or Workshops attended
 - CIMPA Course on Metric Geometry, DST-BHU, Varanasi, April 18- 26, 2022.
@@ -69,10 +69,12 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 - **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 12-14, 2024.
 - **International Conference on Lie Algebra and Number Theory**, Department of Mathematics National Institute of Technology Calicut (An Institute of National Importance), June 10-14, 2024.
 - **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, November 04-08, 2024.
+- **Orthogonal modular forms and Maaß-Köcher series**, Rain, Root and Riemann, A Symposium on Number Theory, North-Eastern Hill University, Shillong, Meghalaya, India, October 06-10, 2025.
 
 ## Talks or Presentations delivered
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications.
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Conference on Lie Algebra and Number Theory.
+- **Orthogonal modular forms and Maaß-Köcher series**, Rain, Root and Riemann, A Symposium on Number Theory.
 
 <!-- ## News
 
