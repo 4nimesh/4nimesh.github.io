@@ -40,9 +40,9 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 ## Research Interests
 
 - **Modular forms** 
+- **Mock Modular forms** 
 - **Jacobi forms**
 - **Automorphic Representations** 
-- **Mock Modular forms** 
 - **L-functions**
 
 ## Ongoing Works
@@ -110,7 +110,7 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 }
 </style>
 
-<a href="./teaching" class="adaptive-button">Miscellaneous information</a>
+<!-- <a href="./teaching" class="adaptive-button">Miscellaneous information</a> -->
 
 <!-- <a href="./teaching" style="display: inline-block; padding: 6px 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 4px;">Miscellaneous information </a> -->
 <!-- <style>
