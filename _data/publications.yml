@@ -4,7 +4,7 @@ main:
     authors: Animesh Sarkar
     # conference_short: 
     conference: Rocky Mountain Journal of Mathematics
-    pdf: https://projecteuclid.org/journals/rmjm/rocky-mountain-journal-of-mathematics/DownloadAcceptedPapers/230926-Sarkar.pdf
+    pdf: https://doi.org/10.1142/S1793042126500053
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
