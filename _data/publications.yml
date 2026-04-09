@@ -1,10 +1,10 @@
 main:
 
-  - title: "The adjoint of the higher order heat operators on Jacobi forms"
+  - title: "The adjoint of the higher-order heat operators on Jacobi forms"
     authors: Animesh Sarkar
     # conference_short: 
     conference: Rocky Mountain Journal of Mathematics
-    pdf: https://doi.org/10.1142/S1793042126500053
+    pdf: https://doi.org/10.1216/rmj.2026.56.221
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
