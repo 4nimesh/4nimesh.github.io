@@ -27,15 +27,20 @@ layout: homepage
 }
 </style>
 
+
 <!-- <a href="./ma111" class="adaptive-button"> MA-111 Tutorials </a> -->
 
-<!-- ## About Me -->
+## About Me
 
-<!-- Hi there! Welcome! I was in [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a central place in the traditions of pilgrimage, death, and mourning in the Hindu world, where I study mathematics, number theory in particular. My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in modular forms, Jacobi forms and corresponding Poincaré series. Currently, I am visiting IMSc, Chennai, India, till March 2026.
+Hi there! Currently I am an NBHM postdoctoral fellow at IISc, Bangalore under the supervsion of [Prof. Soumya Das](https://sites.google.com/site/somuhomepage/). 
 
-Previously, I was a state JRF in [University of North Bengal](https://nbu.ac.in/) for few months,  where I studied [Solid Mechanics](https://en.wikipedia.org/wiki/Solid_mechanics).
+I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my research supervisor was [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat). I completed B.Sc. in Mathematics Honours from [Cooch Behar College](https://coochbeharcollege.ac.in/) and M.Sc. in Mathematics from [University of North Bengal](https://nbu.ac.in/). 
 
-I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](https://coochbeharcollege.ac.in/) and M.Sc. (2016-2018) in Mathematics from [University of North Bengal](https://nbu.ac.in/). If you want to go back further, I did my schooling from [Nivedita Shishu Vidya Mandir](https://schools.org.in/koch-bihar/19030404801/deocharai-nivedita-shishu-vidya-mandir.html) (1999-2005) and [Deocharai High School](https://school.banglarshiksha.gov.in/ws/website/index/19030404701) (2005-2011) and [Cooch Behar Rambhola High School](https://school.banglarshiksha.gov.in/ws/website/index/19031700101) (2011-2013). -->
+<!-- I was in [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a central place in the traditions of pilgrimage, death, and mourning in the Hindu world, where I study mathematics, number theory in particular. My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in modular forms, Jacobi forms and corresponding Poincaré series. Currently, I am visiting IMSc, Chennai, India, till March 2026.  -->
+
+<!-- Previously, I was a state JRF in [University of North Bengal](https://nbu.ac.in/) for few months,  where I studied [Solid Mechanics](https://en.wikipedia.org/wiki/Solid_mechanics). -->
+
+<!-- I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](https://coochbeharcollege.ac.in/) and M.Sc. (2016-2018) in Mathematics from [University of North Bengal](https://nbu.ac.in/). If you want to go back further, I did my schooling from [Nivedita Shishu Vidya Mandir](https://schools.org.in/koch-bihar/19030404801/deocharai-nivedita-shishu-vidya-mandir.html) (1999-2005) and [Deocharai High School](https://school.banglarshiksha.gov.in/ws/website/index/19030404701) (2005-2011) and [Cooch Behar Rambhola High School](https://school.banglarshiksha.gov.in/ws/website/index/19031700101) (2011-2013). --> 
 
 ## Research Interests
 
@@ -69,7 +74,7 @@ I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](
 - **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 12-14, 2024.
 - **International Conference on Lie Algebra and Number Theory**, Department of Mathematics National Institute of Technology Calicut (An Institute of National Importance), June 10-14, 2024.
 - **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, November 04-08, 2024.
-- **Orthogonal modular forms and Maaß-Köcher series**, Rain, Root and Riemann, A Symposium on Number Theory, North-Eastern Hill University, Shillong, Meghalaya, India, October 06-10, 2025.
+- **Rain, Root and Riemann, A Symposium on Number Theory**, North-Eastern Hill University, Shillong, Meghalaya, India, October 06-10, 2025.
 
 ## Talks or Presentations delivered
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications.
