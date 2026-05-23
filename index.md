@@ -75,6 +75,7 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 - **International Conference on Lie Algebra and Number Theory**, Department of Mathematics National Institute of Technology Calicut (An Institute of National Importance), June 10-14, 2024.
 - **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, November 04-08, 2024.
 - **Rain, Root and Riemann, A Symposium on Number Theory**, North-Eastern Hill University, Shillong, Meghalaya, India, October 06-10, 2025.
+- **The Classical Circle Method and The Large Sieve**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, May 04-08, 2026.
 
 ## Talks or Presentations delivered
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications.
