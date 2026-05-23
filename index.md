@@ -69,13 +69,13 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 - School on Number Theory and Physics, Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, June 17-June 21, 2024.
 - Circle Method and Related Topics, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, October 28-November 02, 2024.
 - CIMPA School on Automorphic _L_-functions, IIT Ropar, India, June 30-July 11, 2025.
+- The Classical Circle Method and The Large Sieve, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, May 04-08, 2026.
 
 ## Conferences attended
 - **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 12-14, 2024.
 - **International Conference on Lie Algebra and Number Theory**, Department of Mathematics National Institute of Technology Calicut (An Institute of National Importance), June 10-14, 2024.
 - **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, November 04-08, 2024.
 - **Rain, Root and Riemann, A Symposium on Number Theory**, North-Eastern Hill University, Shillong, Meghalaya, India, October 06-10, 2025.
-- **The Classical Circle Method and The Large Sieve**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, May 04-08, 2026.
 
 ## Talks or Presentations delivered
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications.
