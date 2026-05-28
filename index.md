@@ -32,7 +32,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! Currently I am an NBHM postdoctoral fellow at IISc, Bangalore under the supervsion of [Prof. Soumya Das](https://sites.google.com/site/somuhomepage/). 
+Hi there! Currently I am an NBHM postdoctoral fellow at IISc, Bangalore under the supervision of [Prof. Soumya Das](https://sites.google.com/site/somuhomepage/). 
 
 I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my research supervisor was [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat). I completed B.Sc. in Mathematics Honours from [Cooch Behar College](https://coochbeharcollege.ac.in/) and M.Sc. in Mathematics from [University of North Bengal](https://nbu.ac.in/). 
 
