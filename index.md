@@ -45,13 +45,14 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 ## Research Interests
 
 - **Modular forms** 
-- **Mock Modular forms** 
+<!-- - **Mock Modular forms**  -->
 - **Jacobi forms**
-- **Automorphic Representations** 
+<!-- - **Automorphic Representations**  -->
 - **L-functions**
 
-## Ongoing Works
-- Orthogonal Modular forms and their properties
+<!-- ## Ongoing Works
+- 
+- Orthogonal Modular forms and their properties -->
 <!-- - Trying to get my head around automorphic representations -->
 
 <!-- ## Hobbies
@@ -70,6 +71,7 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 - Circle Method and Related Topics, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, October 28-November 02, 2024.
 - CIMPA School on Automorphic _L_-functions, IIT Ropar, India, June 30-July 11, 2025.
 - The Classical Circle Method and The Large Sieve, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, May 04-08, 2026.
+- Automorphic forms: Arithmetic and Representation Theoretical Aspects, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, July 06-10, 2026.
 
 ## Conferences attended
 - **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 12-14, 2024.
