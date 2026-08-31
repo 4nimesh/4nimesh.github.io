@@ -18,11 +18,11 @@
   
   <div class="pub-content">
       <div class="title">
-        {% if link.pdf %}
+        <!-- {% if link.pdf %}
           <a href="{{ link.pdf }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a>
-        {% else %}
-          {{ link.title }}
-        {% endif %}
+        {% else %} -->
+          <!-- {{ link.title }}
+        {% endif %} -->
       </div>
       
       <div class="author">{{ link.authors }}</div>
