@@ -1,4 +1,175 @@
-.badge {
+:root {
+  --global-bg-color: #ffffff;
+  --global-code-bg-color: rgba(181, 9, 172, 0.05);
+  --global-text-color: #1a1a1a;
+  --global-text-color-light: #595959;
+  --global-theme-color: #002D72;
+  --global-hover-color: #0056b3;
+  --global-note-color: #d93829;
+  --global-border-color: #eaeaea;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --global-bg-color: #121212;
+    --global-text-color: #e0e0e0;
+    --global-text-color-light: #a0a0a0;
+    --global-theme-color: rgb(56, 170, 225);
+    --global-hover-color: #79c0ff;
+    --global-note-color: #ff6b6b;
+    --global-border-color: #2c2c2c;
+  }
+}
+
+/* Base Publications Layout */
+.publications {
+  margin-top: 1.5rem;
+}
+
+.publications h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--global-theme-color);
+  margin-bottom: 1.25rem;
+  border-bottom: 1.5px solid var(--global-border-color);
+  padding-bottom: 0.4rem;
+}
+
+.publications ol.bibliography {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Publication Item Container */
+.publications ol.bibliography li {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.publications ol.bibliography li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Flex Row Setup */
+.pub-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+@media (min-width: 576px) {
+  .pub-row {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}
+
+/* Teaser / Image Box */
+.pub-row .abbr {
+  position: relative;
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 180px;
+}
+
+.pub-row .abbr .teaser {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pub-row .abbr .badge {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: var(--global-theme-color);
+  color: #fff !important;
+  padding: 0.25em 0.5em;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Text Content */
+.pub-content {
+  flex-grow: 1;
+}
+
+.pub-content .title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 0.25rem;
+}
+
+.pub-content .title a {
+  color: var(--global-text-color);
+  text-decoration: none;
+  transition: color 0.15s ease-in-out;
+}
+
+.pub-content .title a:hover {
+  color: var(--global-theme-color);
+  text-decoration: underline;
+}
+
+.pub-content .author {
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
+  line-height: 1.4;
+  margin-bottom: 0.2rem;
+}
+
+.pub-content .periodical {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  margin-bottom: 0.4rem;
+}
+
+/* Action Buttons & Notes */
+.pub-content .links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.35rem;
+}
+
+.pub-content .links a.btn {
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1;
+  padding: 0.25rem 0.55rem;
+  border-radius: 4px;
+  border: 1px solid var(--global-theme-color);
+  color: var(--global-theme-color);
+  background: transparent;
+  text-decoration: none;
+  transition: all 0.15s ease-in-out;
+}
+
+.pub-content .links a.btn:hover {
+  background-color: var(--global-theme-color);
+  color: #ffffff;
+}
+
+.pub-content .pub-notes {
+  font-size: 0.825rem;
+  font-style: italic;
+  font-weight: 500;
+  color: var(--global-note-color);
+  margin-left: 0.25rem;
+}
+
+
+/* .badge {
     display: inline-block;
     padding: 0.25em 0.25em;
     font-size: 75%;
@@ -79,4 +250,4 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
-.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; } */
