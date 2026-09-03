@@ -2,6 +2,48 @@
 layout: homepage
 ---
 
+## About Me
+
+Hi there! Currently I am an NBHM postdoctoral fellow in the [Department of Mathematics](https://math.iisc.ac.in/) at the Indian Institute of Science (IISc), Bengaluru under the supervision of [Prof. Soumya Das](https://sites.google.com/site/somuhomepage/). 
+
+I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my research supervisor was [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat). I completed B.Sc. in Mathematics Honours from [Cooch Behar College](https://coochbeharcollege.ac.in/) and M.Sc. in Mathematics from [University of North Bengal](https://nbu.ac.in/). 
+
+## Publications & Preprints
+
+{% include_relative _includes/publications.md %}
+
+## Talks & Presentations Delivered
+
+- **The adjoint of the higher order heat operators on Jacobi forms**, International Conference on Lie Algebra and Number Theory, NIT Calicut, June 2024.
+- **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications, University of North Bengal, March 2024.
+- **Orthogonal modular forms and Maaß-Köcher series**, Rain, Root and Riemann: A Symposium on Number Theory, NEHU Shillong, October 2025.
+
+## Conferences Attended
+
+- **Rain, Root and Riemann, A Symposium on Number Theory**, North-Eastern Hill University, Shillong, Meghalaya, India, October 06-10, 2025.
+- **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, November 04-08, 2024.
+- **International Conference on Lie Algebra and Number Theory**, NIT Calicut, June 10-14, 2024.
+- **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri, West Bengal, India, March 12-14, 2024.
+
+## Schools & Workshops Attended
+
+- Automorphic forms: Arithmetic and Representation Theoretical Aspects, ICTS Bangalore, July 06-10, 2026.
+- The Classical Circle Method and The Large Sieve, ICTS Bangalore, May 04-08, 2026.
+- CIMPA School on Automorphic *L*-functions, IIT Ropar, June 30-July 11, 2025.
+- Circle Method and Related Topics, ICTS Bangalore, October 28-November 02, 2024.
+- School on Number Theory and Physics, ICTP, Trieste, Italy, June 17-June 21, 2024.
+- AIS - An Introduction to p-adic Methods in Arithmetic, SRM University AP, June 26-July 15, 2023.
+- NCMW - Elliptic Curves, IISER Thiruvananthapuram, April 3-15, 2023.
+- Workshop on Number Theory, NISER Bhubaneswar, February 20-25, 2023.
+- NCMW - Jacobi Forms, IIT Guwahati, December 12-24, 2022.
+- NCMW - Elliptic Curves, Elliptic Functions and Transcendence, HRI Prayagraj, November 24-December 03, 2022.
+- Annual Foundation School – II, NISER Bhubaneswar, June 20-July 16, 2022.
+- CIMPA Course on Metric Geometry, DST-BHU Varanasi, April 18-26, 2022.
+<!-- 
+---
+layout: homepage
+---
+
 <style>
 .adaptive-button {
   display: inline-block;
@@ -30,25 +72,25 @@ layout: homepage
 
 <!-- <a href="./ma111" class="adaptive-button"> MA-111 Tutorials </a> -->
 
-## About Me
+<!-- ## About Me
 
 Hi there! Currently I am an NBHM postdoctoral fellow in the [Department of Mathematics](https://math.iisc.ac.in/) at the Indian Institute of Science (IISc), Bengaluru under the supervision of [Prof. Soumya Das](https://sites.google.com/site/somuhomepage/). 
 
-I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my research supervisor was [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat). I completed B.Sc. in Mathematics Honours from [Cooch Behar College](https://coochbeharcollege.ac.in/) and M.Sc. in Mathematics from [University of North Bengal](https://nbu.ac.in/). 
+I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my research supervisor was [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat). I completed B.Sc. in Mathematics Honours from [Cooch Behar College](https://coochbeharcollege.ac.in/) and M.Sc. in Mathematics from [University of North Bengal](https://nbu.ac.in/).  -->
 
 <!-- I was in [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a central place in the traditions of pilgrimage, death, and mourning in the Hindu world, where I study mathematics, number theory in particular. My research supervisor is [Dr. Abhash Kumar Jha](https://www.iitbhu.ac.in/dept/mat/people/abhashmat), whom I joined December, 2020. We mainly work in modular forms, Jacobi forms and corresponding Poincaré series. Currently, I am visiting IMSc, Chennai, India, till March 2026.  -->
 
 <!-- Previously, I was a state JRF in [University of North Bengal](https://nbu.ac.in/) for few months,  where I studied [Solid Mechanics](https://en.wikipedia.org/wiki/Solid_mechanics). -->
 
 <!-- I completed B.Sc. in Mathematics Honours (2013-2016) from [Cooch Behar College](https://coochbeharcollege.ac.in/) and M.Sc. (2016-2018) in Mathematics from [University of North Bengal](https://nbu.ac.in/). If you want to go back further, I did my schooling from [Nivedita Shishu Vidya Mandir](https://schools.org.in/koch-bihar/19030404801/deocharai-nivedita-shishu-vidya-mandir.html) (1999-2005) and [Deocharai High School](https://school.banglarshiksha.gov.in/ws/website/index/19030404701) (2005-2011) and [Cooch Behar Rambhola High School](https://school.banglarshiksha.gov.in/ws/website/index/19031700101) (2011-2013). --> 
-
+<!-- 
 ## Research Interests
 
 - **Modular forms** 
 <!-- - **Mock Modular forms**  -->
-- **Jacobi forms**
+<!-- - **Jacobi forms** -->
 <!-- - **Automorphic Representations**  -->
-- **L-functions**
+<!-- - **L-functions** --> 
 
 <!-- ## Ongoing Works
 - 
@@ -59,7 +101,7 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 -  Literature! Any kind of Bengali literature. From বঙ্কিমচন্দ্র to শ্রীজাত, anything!
 -  Music! I find myself in an awkward place though when I think about my tastes. I love রবীন্দ্র সঙ্গীত, but Rocks and Metals attract me also. I love Bengali classical, folks and their modern renditions. -->
 
-## Schools or Workshops attended
+<!-- ## Schools or Workshops attended
 - CIMPA Course on Metric Geometry, DST-BHU, Varanasi, April 18- 26, 2022.
 - Annual Foundation School – II, NISER, Bhubaneswar, June 20-16, 2022.
 - NCMW - Elliptic Curves, Elliptic Functions and Transcendence, HRI, Prayagraj, November 24- December 03, 2022.
@@ -71,18 +113,18 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 - Circle Method and Related Topics, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, October 28-November 02, 2024.
 - CIMPA School on Automorphic _L_-functions, IIT Ropar, India, June 30-July 11, 2025.
 - The Classical Circle Method and The Large Sieve, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, May 04-08, 2026.
-- Automorphic forms: Arithmetic and Representation Theoretical Aspects, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, July 06-10, 2026.
+- Automorphic forms: Arithmetic and Representation Theoretical Aspects, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, July 06-10, 2026. -->
 
-## Conferences attended
+<!-- ## Conferences attended
 - **International Seminar on Topology, Algebra and Applications**, University of North Bengal, Siliguri,  West Bengal, India, March 12-14, 2024.
 - **International Conference on Lie Algebra and Number Theory**, Department of Mathematics National Institute of Technology Calicut (An Institute of National Importance), June 10-14, 2024.
 - **Circle Method and Related Topics**, International Centre for Theoretical Sciences, Bangalore, Karnataka, India, November 04-08, 2024.
-- **Rain, Root and Riemann, A Symposium on Number Theory**, North-Eastern Hill University, Shillong, Meghalaya, India, October 06-10, 2025.
+- **Rain, Root and Riemann, A Symposium on Number Theory**, North-Eastern Hill University, Shillong, Meghalaya, India, October 06-10, 2025. -->
 
-## Talks or Presentations delivered
+<!-- ## Talks or Presentations delivered
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications.
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Conference on Lie Algebra and Number Theory.
-- **Orthogonal modular forms and Maaß-Köcher series**, Rain, Root and Riemann, A Symposium on Number Theory.
+- **Orthogonal modular forms and Maaß-Köcher series**, Rain, Root and Riemann, A Symposium on Number Theory. -->
 
 <!-- ## News
 
@@ -91,7 +133,7 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %}
 
 <style>
 .adaptive-button {
@@ -114,9 +156,9 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 @media (prefers-color-scheme: dark) {
   .adaptive-button {
     color: white;
-  }
-}
-</style>
+  } -->
+<!-- }
+</style> -->
 
 <!-- <a href="./teaching" class="adaptive-button">Miscellaneous information</a> -->
 
@@ -127,5 +169,4 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
   color: white;
 }
 </style>
-
-<a href="./teaching" class="transparent-button" style="display: inline-block; padding: 6px 12px; border: 2px solid black; color: black; text-decoration: none; border-radius: 4px; background-color: transparent;">Miscellaneous information</a> -->
+<a href="./teaching" class="transparent-button" style="display: inline-block; padding: 6px 12px; border: 2px solid black; color: black; text-decoration: none; border-radius: 4px; background-color: transparent;">Miscellaneous information</a> --> 
