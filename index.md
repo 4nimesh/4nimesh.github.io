@@ -39,12 +39,9 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 - NCMW - Elliptic Curves, Elliptic Functions and Transcendence, HRI Prayagraj, November 24-December 03, 2022.
 - Annual Foundation School – II, NISER Bhubaneswar, June 20-July 16, 2022.
 - CIMPA Course on Metric Geometry, DST-BHU Varanasi, April 18-26, 2022.
-<!-- 
----
-layout: homepage
----
 
-<style>
+
+<!-- <style>
 .adaptive-button {
   display: inline-block;
   padding: 6px 12px;
@@ -67,9 +64,7 @@ layout: homepage
     color: white;
   }
 }
-</style>
- 
-
+</style> -->
 <!-- <a href="./ma111" class="adaptive-button"> MA-111 Tutorials </a> -->
 
 <!-- ## About Me
