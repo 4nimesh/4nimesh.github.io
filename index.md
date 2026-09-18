@@ -12,6 +12,7 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 
 {% include_relative _includes/publications.md %}
 
+
 ## Talks & Presentations Delivered
 
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Conference on Lie Algebra and Number Theory, NIT Calicut, June 2024.
