@@ -18,6 +18,7 @@ I did my Ph.D. from [IIT (BHU), Varanasi](https://www.iitbhu.ac.in/) and my rese
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Conference on Lie Algebra and Number Theory, NIT Calicut, June 2024.
 - **The adjoint of the higher order heat operators on Jacobi forms**, International Seminar on Topology, Algebra and Applications, University of North Bengal, March 2024.
 - **Orthogonal modular forms and Maaß-Köcher series**, Rain, Root and Riemann: A Symposium on Number Theory, NEHU Shillong, October 2025.
+- **Sign Changes on Fundamental Fourier Coefficients of Siegel Cusp Forms**, Young Scientists Symposium 2026, IISc, October 2026.
 
 ## Conferences Attended
 
