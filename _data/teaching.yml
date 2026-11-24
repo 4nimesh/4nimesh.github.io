@@ -1,9 +1,12 @@
 # Courses where I tutored, newest first. `page` is optional (a link to a course page).
 
+- course: Real Analysis and Linear Algebra (UMA 101)
+  term: August 2026
+  place: IISc
 - course: Algebra (MA111)
   term: Odd semester 2025–26
   place: IIT (BHU) Varanasi
-  page: /ma111.html
+  # page: /ma111.html
 - course: Engineering Mathematics II
   term: Even semester 2024–25
   place: IIT (BHU) Varanasi
