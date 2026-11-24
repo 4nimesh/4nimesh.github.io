@@ -267,6 +267,7 @@ li { margin-bottom: 0.3rem; }
    Small screens
    ------------------------------------------------------------ */
 @media (max-width: 600px) {
+  .when:empty { display: none; }
   body { font-size: 1rem; }
   .topbar-inner { padding-top: 0.9rem; padding-bottom: 0.9rem; }
   .home .wordmark { display: none; }
@@ -280,4 +281,3 @@ li { margin-bottom: 0.3rem; }
   h2 { margin-top: 2.5rem; }
 }
 
-.when:empty { display: none; }
