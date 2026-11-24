@@ -1,0 +1,91 @@
+# Newest first. To add an item, copy a block and paste it at the top of its list.
+
+talks:
+  - title: Sign changes on fundamental Fourier coefficients of Siegel cusp forms
+    event: Young Scientists Symposium 2026
+    place: IISc Bangalore
+    date: October 2026
+    year: 2026
+  - title: Orthogonal modular forms and Maaß–Köcher series
+    event: "Rain, Root and Riemann: A Symposium on Number Theory"
+    place: NEHU Shillong
+    date: October 2025
+    year: 2025
+  - title: The adjoint of the higher order heat operators on Jacobi forms
+    event: International Conference on Lie Algebra and Number Theory
+    place: NIT Calicut
+    date: June 2024
+    year: 2024
+  - title: The adjoint of the higher order heat operators on Jacobi forms
+    event: International Seminar on Topology, Algebra and Applications
+    place: University of North Bengal
+    date: March 2024
+    year: 2024
+
+conferences:
+  - event: "Rain, Root and Riemann: A Symposium on Number Theory"
+    place: North-Eastern Hill University, Shillong
+    date: October 6–10, 2025
+    year: 2025
+  - event: Circle Method and Related Topics
+    place: ICTS Bangalore
+    date: November 4–8, 2024
+    year: 2024
+  - event: International Conference on Lie Algebra and Number Theory
+    place: NIT Calicut
+    date: June 10–14, 2024
+    year: 2024
+  - event: International Seminar on Topology, Algebra and Applications
+    place: University of North Bengal, Siliguri
+    date: March 12–14, 2024
+    year: 2024
+
+schools:
+  - event: "Automorphic forms: Arithmetic and Representation Theoretical Aspects"
+    place: ICTS Bangalore
+    date: July 6–10, 2026
+    year: 2026
+  - event: The Classical Circle Method and The Large Sieve
+    place: ICTS Bangalore
+    date: May 4–8, 2026
+    year: 2026
+  - event: CIMPA School on Automorphic L-functions
+    place: IIT Ropar
+    date: June 30 – July 11, 2025
+    year: 2025
+  - event: Circle Method and Related Topics
+    place: ICTS Bangalore
+    date: October 28 – November 2, 2024
+    year: 2024
+  - event: School on Number Theory and Physics
+    place: ICTP, Trieste, Italy
+    date: June 17–21, 2024
+    year: 2024
+  - event: "AIS: An Introduction to p-adic Methods in Arithmetic"
+    place: SRM University AP
+    date: June 26 – July 15, 2023
+    year: 2023
+  - event: "NCMW: Elliptic Curves"
+    place: IISER Thiruvananthapuram
+    date: April 3–15, 2023
+    year: 2023
+  - event: Workshop on Number Theory
+    place: NISER Bhubaneswar
+    date: February 20–25, 2023
+    year: 2023
+  - event: "NCMW: Jacobi Forms"
+    place: IIT Guwahati
+    date: December 12–24, 2022
+    year: 2022
+  - event: "NCMW: Elliptic Curves, Elliptic Functions and Transcendence"
+    place: HRI Prayagraj
+    date: November 24 – December 3, 2022
+    year: 2022
+  - event: Annual Foundation School II
+    place: NISER Bhubaneswar
+    date: June 20 – July 16, 2022
+    year: 2022
+  - event: CIMPA Course on Metric Geometry
+    place: DST-BHU Varanasi
+    date: April 18–26, 2022
+    year: 2022

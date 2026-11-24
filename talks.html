@@ -1,0 +1,60 @@
+---
+layout: default
+title: Talks
+active: Talks
+permalink: /talks/
+---
+{% assign talks = site.data.events.talks | group_by: "year" %}
+{% assign confs = site.data.events.conferences | group_by: "year" %}
+{% assign schools = site.data.events.schools | group_by: "year" %}
+
+<section>
+  <h2>Talks given</h2>
+  {% for g in talks %}
+  <div class="year-group">
+    <span class="when">{{ g.name }}</span>
+    <ul class="entries">
+      {% for t in g.items %}
+      <li class="entry"><div class="what">
+        <p class="title">{{ t.title }}</p>
+        <p class="meta">{{ t.event }}, {{ t.place }}, {{ t.date }}</p>
+      </div></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</section>
+
+<section>
+  <h2>Conferences attended</h2>
+  {% for g in confs %}
+  <div class="year-group">
+    <span class="when">{{ g.name }}</span>
+    <ul class="entries">
+      {% for t in g.items %}
+      <li class="entry"><div class="what">
+        <p class="title">{{ t.event }}</p>
+        <p class="meta">{{ t.place }}, {{ t.date }}</p>
+      </div></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</section>
+
+<section>
+  <h2>Schools and workshops</h2>
+  {% for g in schools %}
+  <div class="year-group">
+    <span class="when">{{ g.name }}</span>
+    <ul class="entries">
+      {% for t in g.items %}
+      <li class="entry"><div class="what">
+        <p class="title">{{ t.event }}</p>
+        <p class="meta">{{ t.place }}, {{ t.date }}</p>
+      </div></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</section>

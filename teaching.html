@@ -1,0 +1,18 @@
+---
+layout: default
+title: Teaching
+active: Teaching
+permalink: /teaching/
+redirect_from: /teaching.html
+---
+<section>
+  <h2>Tutor</h2>
+  <ul class="entries plain">
+    {% for c in site.data.teaching %}
+    <li class="entry"><div class="what">
+      <p class="title">{% if c.page %}<a href="{{ c.page }}">{{ c.course }}</a>{% else %}{{ c.course }}{% endif %}</p>
+      <p class="meta">{{ c.term }}, {{ c.place }}</p>
+    </div></li>
+    {% endfor %}
+  </ul>
+</section>

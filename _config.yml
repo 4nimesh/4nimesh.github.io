@@ -1,57 +1,63 @@
-# Basic Information 
+# ------------------------------------------------------------------
+# Basic information (shown on every page)
+# ------------------------------------------------------------------
 title: Animesh Sarkar
 position: NBHM Postdoctoral Fellow
+department: Department of Mathematics
+department_link: https://math.iisc.ac.in/
 affiliation: Indian Institute of Science, Bangalore
 email: sanimesh at iisc dot ac dot in
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Animesh Sarkar, math, number theory, iit, bhu, iisc, Indian Institute of Science
-description: Animesh Sarkar is a scholar of Number Theory in the Dept. of Mathematical Sciences, IIT-BHU, Varanasi, India. 
-# canonical: https://minimal-light-theme.yliu.me/
+# Search engines and link previews
+description: >-
+  Animesh Sarkar is an NBHM Postdoctoral Fellow in the Department of
+  Mathematics at the Indian Institute of Science, Bangalore, working in
+  number theory: modular forms, Jacobi forms and Poincaré series.
+keywords: Animesh Sarkar, mathematics, number theory, modular forms, Jacobi forms, IISc, Indian Institute of Science
+url: https://4nimesh.github.io
+lang: en
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=NRqUK0cAAAAJ&hl=en
-# cv_link: assets/cvani.pdf
-# github_link: https://github.com/
-# linkedin: https://www.linkedin.com/
-# twitter: https://twitter.com/
+# ------------------------------------------------------------------
+# Profile links — delete a line (or leave it empty) to hide that link
+# ------------------------------------------------------------------
+links:
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=NRqUK0cAAAAJ&hl=en
+  - name: arXiv
+    url:            # e.g. https://arxiv.org/a/sarkar_a_1
+  - name: ORCID
+    url:            # e.g. https://orcid.org/0000-0000-0000-0000
+  - name: MathSciNet
+    url:            # e.g. https://mathscinet.ams.org/mathscinet/MRAuthorID/0000000
+  # - name: CV
+  #   url: /assets/cvani.pdf
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/images/IMG_4642.jpeg
-favicon: ./assets/images/iisc1.jpg
-# favicon_dark: ./assets/img/favicon-dark.png
+# ------------------------------------------------------------------
+# Top navigation
+# ------------------------------------------------------------------
+nav:
+  - title: About
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Talks
+    url: /talks/
+  - title: Teaching
+    url: /teaching/
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-# enable_footnote: true
+# Images
+avatar: /assets/images/avatar.jpg
+favicon: /assets/images/favicon.png
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
+# ------------------------------------------------------------------
+# Build settings (no need to change)
+# ------------------------------------------------------------------
+markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+  - assets/images/IMG_5019.HEIC
+plugins:
+  - jekyll-redirect-from

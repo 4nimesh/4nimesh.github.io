@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="{{ site.keywords }}">
+  <meta name="color-scheme" content="light dark">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}">
+  <link rel="icon" href="{{ site.favicon }}" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wdth,wght@0,75..100,400..700;1,75..100,400..700&display=swap">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  {% if page.math %}
+  <script>
+    window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+  {% endif %}
+</head>
+<body{% if page.hero %} class="home"{% endif %}>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="wordmark" href="/">{{ site.title }}</a>
+      <nav aria-label="Main">
+        <ul>
+          {% for item in site.nav %}
+          <li><a href="{{ item.url }}"{% if page.active == item.title %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  {% if page.hero %}
+  <div class="band">{% include farey.svg %}</div>
+  <div class="hero">
+    <img class="avatar" src="{{ site.avatar }}" alt="Photo of {{ site.title }}" width="600" height="750">
+    <div class="hero-text">
+      <h1>{{ site.title }}</h1>
+      <p class="role">{{ site.position }}<br>
+        <a href="{{ site.department_link }}">{{ site.department }}</a>, {{ site.affiliation }}</p>
+      <p class="email">{{ site.email }}</p>
+      <ul class="links">
+        {% for l in site.links %}{% if l.url %}
+        <li><a href="{{ l.url }}">{{ l.name }}</a></li>
+        {% endif %}{% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+  <main id="main" class="content">
+    {% if page.title and page.hero != true %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+    {{ content }}
+  </main>
+
+  <footer class="foot">
+    <p>Last updated {{ site.time | date: "%B %Y" }}</p>
+  </footer>
+</body>
+</html>

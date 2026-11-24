@@ -1,0 +1,15 @@
+<section class="recent">
+  <h2>Recent papers</h2>
+  <ul class="entries">
+    {% for p in site.data.publications.published limit:3 %}
+    <li class="entry">
+      <span class="when">{{ p.year }}</span>
+      <div class="what">
+        <p class="title">{% if p.doi %}<a href="{{ p.doi }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</p>
+        <p class="meta">{{ p.authors }}. <em>{{ p.journal }}</em></p>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="more"><a href="/publications/">All publications</a></p>
+</section>
